@@ -1,8 +1,8 @@
 <?php
 $host = "sql10.freesqldatabase.com"; // servidor de tu hosting
-$user = "sql10812271";               // usuario de la DB
-$password = "jXm7L5mxJS";            // contraseña
-$database = "sql10812271";           // nombre de la base de datos
+$user = "sql10813014";               // usuario de la DB
+$password = "hSErf9Xw7b";            // contraseña
+$database = "sql10813014";           // nombre de la base de datos
 
 // Crear conexión
 $conexion = new mysqli($host, $user, $password, $database);
