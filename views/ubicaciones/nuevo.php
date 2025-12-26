@@ -10,9 +10,10 @@
   <input type="text" name="direccion" class="form-control mb-2"
          placeholder="Dirección" required>
 
-  <button class="btn btn-success">Guardar</button>
+  <button type="submit" name="guardar" class="btn btn-success">Guardar</button>
   <a href="index.php?page=ubicaciones" class="btn btn-secondary">Cancelar</a>
 
 </form>
 
 <?php include "views/layout/footer.php"; ?>
+
